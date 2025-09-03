@@ -1,4 +1,4 @@
-
+# Ejercicio 2 hecho en Clases (Unidad 1)
 
 class Coche:
     def __init__(self, marca, gasolina):
@@ -28,3 +28,4 @@ class Coche:
 # FALTA CREAR OBJETO
 coche1 = Coche()
 coche2 = Coche()
+
